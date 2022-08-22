@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Inciando na área de Front-End e evoluindo a cada dia!
+  ### Inciando na área de Front-End
  
 <div> 
   <a href = "mailto:cleibson.nenesio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
