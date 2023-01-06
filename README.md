@@ -1,4 +1,4 @@
-# Olá! Eu sou o Cleibson Nenesio 👋
+# Olá! Eu sou o Cleibson 👋
 
 <div>
   <a href="https://github.com/cleibson-nenesio">
