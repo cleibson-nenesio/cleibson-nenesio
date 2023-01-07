@@ -1,5 +1,9 @@
 # Olá! Eu sou o Cleibson 👋
 
+- Apaixonado por tecnologia e desenvolvimento 👨‍💻
+- Estudando Javascript e React.Js 📚
+- Amante da música 🎵
+
 <div>
   <a href="https://github.com/cleibson-nenesio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleibson-nenesio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -21,7 +25,8 @@
   #### Meus contatos
 <div> 
   <a href = "mailto:cleibson.nenesio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleibson-nenesio-8b394a247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cleibson-nenesio-8b394a247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=+5511980174431" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
   ![Snake animation](https://github.com/cleibson-nenesio/cleibson-nenesio/blob/output/github-contribution-grid-snake.svg)
 </div>
