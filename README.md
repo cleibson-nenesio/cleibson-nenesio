@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/cleibson-nenesio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cleibson-nenesio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleibson-nenesio&layout=compact&langs_count=6&theme=gotham"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cleibson-nenesio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleibson-nenesio&layout=compact&langs_count=6&theme=gotham"/>
 </div>
   
   ### Linguagens que uso no dia-a-dia 🤓
