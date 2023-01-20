@@ -1,7 +1,7 @@
 # Olá! Eu sou o Cleibson 👋
 
 - Apaixonado por tecnologia e desenvolvimento 👨‍💻
-- Atualmente estudando Javascript e React.Js 📚
+- Atualmente estudando Typescript, TailwindCSS e React.Js 📚
 - Amante da música 🎵
 
 <div>
