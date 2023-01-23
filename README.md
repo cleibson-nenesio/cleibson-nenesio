@@ -3,7 +3,7 @@
 <pre><code>const developer = {
   name: "Cleibson Nenesio 😎",
   studying: "Typescript, TailwindCSS e React.Js 📚",
-  passion: "Passionate about development ❤",
+  role: "Dev. Front-End Jr.",
 }</code></pre>
 
 <pre><code>const technologies = {
