@@ -13,7 +13,7 @@
       "Javascript",
       "Typescript"
     ],
-    librarys: ["React.Js", "styled-components"],
+    librarys: ["React.Js"],
     frameworks: ["TailwindCSS"],
     preprocessors: ["Sass"]
   },</code></pre>
