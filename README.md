@@ -3,7 +3,7 @@
 <pre><code>const developer = {
   name: "Cleibson Nenesio 😎",
   studying: "Typescript, TailwindCSS e NextJs 📚",
-  role: "Dev. Front-End Jr.",
+  role: "Dev. Front-End",
 }</code></pre>
 
 <pre><code>const technologies = {
@@ -13,8 +13,7 @@
       "Javascript",
       "Typescript"
     ],
-    librarys: ["React.Js"],
-    frameworks: ["TailwindCSS"],
+    frameworks: ["TailwindCSS", "React.JS", "Next.Js"],
     preprocessors: ["Sass"]
   },</code></pre>
 
@@ -37,7 +36,7 @@
  
  <br>
  
-  ### Busco oportunidades como Desenvolvedor Front-End Jr. 👨‍💻
+  ### Atualmente como Desenvolvedor Front-End 👨‍💻
   #### Vamos conversar? 
 <div> 
   <a href = "mailto:cleibson.nenesio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
