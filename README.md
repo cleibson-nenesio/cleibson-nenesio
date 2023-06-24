@@ -11,7 +11,3 @@
 
   ### - Current Stack
   [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,materialui,jest,sass)](https://skillicons.dev)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleibson-nenesio&layout=compact)
-
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cleibson-nenesio)](https://github.com/anuraghazra/github-readme-stats)
