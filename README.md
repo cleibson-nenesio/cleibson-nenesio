@@ -1,44 +1,17 @@
-# Olá! Eu sou o Cleibson 👋
+👋 Oi, eu sou Cleibson Nenesio! Sou Desenvolvedor Front-End na Agência Tropa Digital. 💻 Adoro mergulhar nas tecnologias front-end e estou sempre em busca de inovações. 🚀 Além disso, tenho um prazer imenso em ajudar aqueles que estão começando nessa jornada incrível! Seja bem-vindo(a) ao meu perfil! 😄✨
 
-<pre><code>const developer = {
-  name: "Cleibson Nenesio 😎",
-  studying: "Typescript, TailwindCSS e NextJs 📚",
-  role: "Dev. Front-End",
-}</code></pre>
+<details>
+  <summary>Don't Speak Portguese?</summary>
+    👋 Hi there, I'm Cleibson Nenesio! I work as a Front-End Developer at Tropa Digital Agency. 💻 I enjoy diving into front-end technologies and constantly seeking innovations. 🚀 Moreover, I take great pleasure in assisting those who are starting out in this amazing field! Welcome to my profile! 😄✨
+</details>
 
-<pre><code>const technologies = {
-    languages: [
-      "HTML5",
-      "CSS3",
-      "Javascript",
-      "Typescript"
-    ],
-    frameworks: ["TailwindCSS", "React.JS", "Next.Js"],
-    preprocessors: ["Sass"]
-  },</code></pre>
-
-<div>
-  <a href="https://github.com/cleibson-nenesio">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cleibson-nenesio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleibson-nenesio&layout=compact&langs_count=6&theme=gotham"/>
-</div>
-  
-  ### Tecnologias que uso diariamente ✔
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Next" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Atualmente como Desenvolvedor Front-End 👨‍💻
-  #### Vamos conversar? 
-<div> 
   <a href = "mailto:cleibson.nenesio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleibson-nenesio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5511980174431" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+  ### - Current Stack
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,materialui,jest,sass)](https://skillicons.dev)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleibson-nenesio&layout=compact)
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cleibson-nenesio)](https://github.com/anuraghazra/github-readme-stats)
