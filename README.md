@@ -10,4 +10,4 @@
   <a href="https://wa.me/5511980174431" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
   ### - Current Stack
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwind,materialui,jest,sass)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwind,materialui,jest,sass,cs)](https://skillicons.dev)
