@@ -1,7 +1,7 @@
 👋 Oi, eu sou Cleibson Nenesio! Sou Desenvolvedor Front-End na Agência Tropa Digital. 💻 Adoro mergulhar nas tecnologias front-end e estou sempre em busca de inovações. 🚀 Além disso, tenho um prazer imenso em ajudar aqueles que estão começando nessa jornada incrível! Seja bem-vindo(a) ao meu perfil! 😄✨
 
 <details>
-  <summary>Don't Speak Portguese?</summary>
+  <summary>Don't you Speak Portguese?</summary>
     👋 Hi there, I'm Cleibson Nenesio! I work as a Front-End Developer at Tropa Digital Agency. 💻 I enjoy diving into front-end technologies and constantly seeking innovations. 🚀 Moreover, I take great pleasure in assisting those who are starting out in this amazing field! Welcome to my profile! 😄✨
 </details>
 
